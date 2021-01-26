@@ -20,3 +20,4 @@ https://www.youtube.com/watch?v=XtMThy8QKqU&t=1041s&ab_channel=CleverProgrammer
 - 作品をクリックすると、あればプロモーション映像の Youtube が iFrame で流れる
 
 サイト URL
+https://react-netflix-clone-e9a8d.web.app/
