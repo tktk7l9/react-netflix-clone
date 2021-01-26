@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "react-netflix-clone-e9a8d",
+    "public": "build",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
